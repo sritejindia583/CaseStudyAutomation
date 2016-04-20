@@ -1,0 +1,23 @@
+###############################################################################
+'-------------------------------------------------------------------------------
+' Case Study: Case Study 1
+' Script Name: TS_BookFlight
+' Brief Functional Description: Book a return Journey
+' Created On: DD-MMM-YYYY
+' Created By: Enterprise ID
+' Comments/Remmark: 
+'-------------------------------------------------------------------------------
+'###############################################################################
+Launch the browser with url
+maximize the browser size
+Current Page title is : Welcome: Mercury Tours
+Current Page Url is : http://newtours.demoaut.com/
+************************************************
+Waiting for username and password to load
+UserName field is present
+Password field is present
+Populate username: mercury
+Populate password: mercury
+Clicking on Sign-in button
+************************************************
+Current Page title is : Find a Flight: Mercury Tours:

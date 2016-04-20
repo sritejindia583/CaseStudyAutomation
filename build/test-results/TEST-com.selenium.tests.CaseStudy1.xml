@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.tests.CaseStudy1" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-20T14:02:32" hostname="sritej583-SVE15133CNB" time="6.77">
+  <properties/>
+  <testcase name="testCase_BookAReturnJourney" classname="com.selenium.tests.CaseStudy1" time="6.77"/>
+  <system-out><![CDATA[/home/sritej583/Projects/CaseStudyAutomationProject/results/2016-04-20 - 1275
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

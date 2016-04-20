@@ -1,0 +1,8 @@
+
+package com.foster.code;
+
+class SourceClass {
+	public void srcMethod() {
+		System.out.println("Hello World");
+	}
+}

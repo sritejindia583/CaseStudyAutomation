@@ -1,0 +1,12 @@
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compile 'org.seleniumhq.selenium:selenium-java:2.53.0'
+	testCompile 'junit:junit:4.12'
+}
